@@ -1,0 +1,154 @@
+Receive Time,Type,Threat/Content Type,Source address,Destination address,Rule,Source User,Destination User,Application,Source Zone,Destination Zone,Log Action,Session ID,Source Port,Destination Port,IP Protocol,Action,URL,Threat/Content Name,Severity,Direction,Source Country,Destination Country
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:36,THREAT,scan,148.251.177.114,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,DE,ZA
+2018/03/27 08:45,THREAT,vulnerability,148.251.177.114,172.20.20.4,Rule53,,,ssh,EXT,DMZ,forward_to_log_storage,139993,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,DE,ZA
+2018/03/27 08:46,THREAT,vulnerability,148.251.177.114,172.20.20.7,Rule52,,,sql,EXT,DMZ,forward_to_log_storage,209760,55472,80,tcp,Block,customer_portal.aspx,HTTP SQL Injection Attempt,medium,client-to-server,DE,ZA
+2018/03/27 08:46,THREAT,vulnerability,148.251.177.114,172.20.20.6,Rule51,,,sql,EXT,DMZ,forward_to_log_storage,209764,55472,1443,tcp,Block,customer_portal.aspx,SQL Injection Attempt,medium,client-to-server,DE,ZA
+2018/03/27 08:47,THREAT,vulnerability,148.251.177.114,172.20.20.8,Rule50,,,ssh,EXT,DMZ,forward_to_log_storage,139992,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,DE,ZA
+2018/03/27 13:57,THREAT,spyware,172.20.10.18,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/27 14:18,THREAT,spyware,172.20.10.24,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 14:27,THREAT,spyware,172.20.10.31,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 14:57,THREAT,spyware,172.20.10.18,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/27 15:18,THREAT,spyware,172.20.10.24,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 15:27,THREAT,spyware,172.20.10.31,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 15:57,THREAT,spyware,172.20.10.18,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/27 16:18,THREAT,spyware,172.20.10.24,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 16:18,THREAT,spyware,172.20.10.24,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 16:27,THREAT,spyware,172.20.10.31,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/27 16:57,THREAT,spyware,172.20.10.18,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 08:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 08:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 08:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 09:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 09:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 09:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 10:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 10:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 10:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 11:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 11:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 11:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 12:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 12:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 12:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 13:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 14:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 14:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 14:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 15:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 15:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:36,THREAT,scan,46.29.161.175,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,RU,ZA
+2018/03/28 15:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/28 16:18,THREAT,spyware,172.20.10.12,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 16:24,THREAT,vulnerability,46.29.161.175,172.20.20.4,Rule53,,,ssh,EXT,DMZ,forward_to_log_storage,139993,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,RU,ZA
+2018/03/28 16:25,THREAT,vulnerability,46.29.161.175,172.20.20.7,Rule52,,,sql,EXT,DMZ,forward_to_log_storage,209760,55472,80,tcp,Block,customer_portal.aspx,HTTP SQL Injection Attempt,medium,client-to-server,RU,ZA
+2018/03/28 16:25,THREAT,vulnerability,46.29.161.175,172.20.20.6,Rule51,,,sql,EXT,DMZ,forward_to_log_storage,209764,55472,1443,tcp,Block,customer_portal.aspx,SQL Injection Attempt,medium,client-to-server,RU,ZA
+2018/03/28 16:25,THREAT,vulnerability,46.29.161.175,172.20.20.8,Rule50,,,ssh,EXT,DMZ,forward_to_log_storage,139992,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,RU,ZA
+2018/03/28 16:25,THREAT,vulnerability,46.29.161.175,172.20.20.8,Rule50,,,webdav,EXT,DMZ,forward_to_log_storage,36885,1702,80,tcp,Block,,HTTP Unauthorized Brute Force Attack,high,client-to-server,RU,ZA
+2018/03/28 16:27,THREAT,spyware,172.20.10.24,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/28 16:57,THREAT,spyware,172.20.10.17,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 08:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 08:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 08:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 09:08,THREAT,scan,185.56.82.56,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,31099,5900,tcp,alert,,SCAN: Host Sweep,medium,client-to-server,NL,ZA
+2018/03/29 09:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 09:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 09:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 10:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 10:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 10:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,22,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,80,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,20,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.4,Rule3,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.5,Rule4,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.7,Rule6,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,scan,222.186.129.104,172.20.20.8,Rule7,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5079,1443,udp,alert,,SCAN: Host Sweep,medium,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,vulnerability,222.186.129.104,172.20.20.4,Rule53,,,ssh,EXT,DMZ,forward_to_log_storage,139993,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,CN,ZA
+2018/03/29 11:16,THREAT,vulnerability,222.186.129.104,172.20.20.6,Rule51,,,sql,EXT,DMZ,forward_to_log_storage,209764,55472,1443,tcp,Block,customer_portal.aspx,SQL Injection Attempt,medium,client-to-server,CN,ZA
+2018/03/29 11:17,THREAT,vulnerability,222.186.129.104,172.20.20.8,Rule50,,,ssh,EXT,DMZ,forward_to_log_storage,139992,52622,22,tcp,Block,,SSH User Authentication Brute Force Attempt,high,client-to-server,CN,ZA
+2018/03/29 11:17,THREAT,vulnerability,222.186.129.104,172.20.20.8,Rule50,,,webdav,EXT,DMZ,forward_to_log_storage,36885,1702,80,tcp,Block,,HTTP Unauthorized Brute Force Attack,high,client-to-server,CN,ZA
+2018/03/29 11:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 11:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 11:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 12:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 12:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 12:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 13:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 13:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 13:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 14:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 14:24,THREAT,scan,134.119.214.141,172.20.20.6,Rule5,,,not-applicable,EXT,DMZ,forward_to_log_storage,0,5543,5060,udp,alert,,SCAN: Host Sweep,medium,client-to-server,FR,ZA
+2018/03/29 14:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 14:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 15:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 15:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 15:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
+2018/03/29 16:18,THREAT,spyware,172.20.10.21,184.154.150.66,Rule68,User2,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 16:27,THREAT,spyware,172.20.10.14,185.78.64.121,Rule68,User1,,unknown-tcp,INT,EXT,forward_to_log_storage,212410,59654,443,tcp,Block,,Gen Command and Control Traffic,critical,client-to-server,ZA,US
+2018/03/29 16:57,THREAT,spyware,172.20.10.19,41.57.15.146,Rule68,User3,,dns,INT,EXT,forward_to_log_storage,155877,53503,53,udp,alert,,Suspicious DNS Query (generic:www.gyd900yhllcfci.info),medium,client-to-server,ZA,ZA
